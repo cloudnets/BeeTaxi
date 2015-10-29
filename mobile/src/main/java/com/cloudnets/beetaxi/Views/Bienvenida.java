@@ -68,7 +68,7 @@ public class Bienvenida extends Activity {
     }
 
     public void avanzar(){
-        Intent principal = new Intent(Bienvenida.this,inicio.class);
+        Intent principal = new Intent(Bienvenida.this,Menu.class);
         startActivity(principal);
         finish();
     }
