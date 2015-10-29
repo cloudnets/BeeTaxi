@@ -2,5 +2,6 @@
 <resources>
     <color name="colorPrimary">#EAB937</color>
     <color name="colorPrimaryDark">#FFCC66</color>
+    <color name="colorBarNav">#EAB935</color>
     <color name="colorAccent">#FF4081</color>
 </resources>
